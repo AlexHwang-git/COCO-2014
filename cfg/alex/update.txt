@@ -1,0 +1,7 @@
+Need setup an account on github previously.
+sign in "github"
+Fork the repository
+Then, "Add file" is available
+Click the "Add file" button
+"Upload file" & "Create file" is available now.
+Try it!!
